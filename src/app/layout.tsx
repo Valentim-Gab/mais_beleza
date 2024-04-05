@@ -11,7 +11,7 @@ const ubuntu = Ubuntu({
 
 export const metadata: Metadata = {
   title: '+ Beleza',
-  description: 'Serviços de estética e terapias, cuidados da sua beleza externa e interna.',
+  description: 'Serviços de estética e terapias. Cuidados da sua beleza externa e interna!',
 }
 
 export default function RootLayout({
