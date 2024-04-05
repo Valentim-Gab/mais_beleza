@@ -1,7 +1,7 @@
 import './globals.scss'
 import type { Metadata } from 'next'
 import { Inter, Ubuntu } from 'next/font/google'
-import HeaderMobile from '@/components/header/header-mobile'
+// import HeaderMobile from '@/components/header/header-mobile'
 import Header from '@/components/header/header'
 
 const ubuntu = Ubuntu({
