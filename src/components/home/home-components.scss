@@ -1,0 +1,52 @@
+.main-banner {
+  background-image: url(/assets/images/backgrounds/main-banner.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.btn-instagram {
+  background: linear-gradient(
+    45deg,
+    #405de6,
+    #5851db,
+    #833ab4,
+    #c13584,
+    #e1306c,
+    #fd1d1d,
+    #f56040,
+    #f77737,
+    #fcaf45,
+    #ffde59
+  );
+  @apply text-white;
+}
+
+.btn-facebook {
+  background-color: #3b5998;
+  @apply text-white;
+}
+
+.btn-whatsapp {
+  background-color: #20b155;
+  @apply text-white;
+}
+
+.btn-gmail {
+  @apply bg-white;
+  color: #d93025;
+}
+
+.inner-beauty-cards {
+  background-image: url(/assets/images/backgrounds/inner-beauty-bg-cards.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.external-beauty-cards {
+  background-image: url(/assets/images/backgrounds/external-beauty-bg-cards.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
